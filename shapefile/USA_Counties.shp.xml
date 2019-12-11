@@ -1,0 +1,3 @@
+<?xml version="1.0"?>
+<!--<!DOCTYPE metadata SYSTEM "http://www.esri.com/metadata/esriprof80.dtd">-->
+<metadata xml:lang="es"><Esri><MetaID>{1F5B4A54-0C42-4D89-B93D-6EDB8853D337}</MetaID><CreaDate>20150107</CreaDate><CreaTime>16120900</CreaTime><SyncOnce>TRUE</SyncOnce><DataProperties><lineage><Process ToolSource="C:\Program Files (x86)\ArcGIS\ArcToolbox\Toolboxes\Data Management Tools.tbx\DefineProjection" Date="20150107" Time="161209">DefineProjection USA_Counties GEOGCS['GCS_WGS_1984',DATUM['D_WGS_1984',SPHEROID['WGS_1984',6378137.0,298.257223563]],PRIMEM['Greenwich',0.0],UNIT['Degree',0.0174532925199433]] USA_Counties</Process></lineage></DataProperties></Esri></metadata>
